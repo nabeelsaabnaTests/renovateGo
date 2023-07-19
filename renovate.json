@@ -6,7 +6,7 @@
   "packageRules": [
     {
 		"matchManagers": [ "gomod" ],
-		"registryUrls": [ https://nabeelcustomurl.com ]
+		"registryUrls": [ "https://nabeelcustomurl.com" ]
 	  },
     {
       "matchDatasources": ["golang-version"],
