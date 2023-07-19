@@ -5,7 +5,7 @@
   ],
   "packageRules": [
     {
-      "matchDatasource": ["golang-version"],
+      "matchDatasources": ["golang-version"],
       "enabled": false
     }
   ]
